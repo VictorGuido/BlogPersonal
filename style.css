@@ -5,3 +5,12 @@
     background-attachment: fixed;
     margin-top: -13px;
 }
+#arcade {
+    background: url(https://silly-franklin-b0023b.netlify.com/media/arcade.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin-top: -13px;
+}
+#menu a {
+    font-family: sans-serif;
